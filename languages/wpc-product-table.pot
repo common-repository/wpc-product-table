@@ -1,0 +1,593 @@
+# Copyright (C) 2024 WPClever
+# This file is distributed under the same license as the WPC Product Table for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Product Table for WooCommerce 3.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-product-table\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-27T10:02:18+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-product-table\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Product Table for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "WPC Product Table helps you show selected products as a table on the page."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-product-table.php:93
+#: wpc-product-table.php:837
+msgid "Order"
+msgstr ""
+
+#: wpc-product-table.php:94
+msgid "Thumbnail"
+msgstr ""
+
+#: wpc-product-table.php:95
+#: wpc-product-table.php:827
+msgid "Name"
+msgstr ""
+
+#: wpc-product-table.php:96
+msgid "Name & Price"
+msgstr ""
+
+#: wpc-product-table.php:97
+msgid "Price"
+msgstr ""
+
+#: wpc-product-table.php:98
+msgid "Price HTML"
+msgstr ""
+
+#: wpc-product-table.php:99
+msgid "SKU"
+msgstr ""
+
+#: wpc-product-table.php:100
+msgid "Review"
+msgstr ""
+
+#: wpc-product-table.php:101
+msgid "Short Description"
+msgstr ""
+
+#: wpc-product-table.php:102
+msgid "Add To Cart Button"
+msgstr ""
+
+#: wpc-product-table.php:103
+msgid "Add To Cart Form"
+msgstr ""
+
+#: wpc-product-table.php:104
+msgid "Availability"
+msgstr ""
+
+#: wpc-product-table.php:105
+msgid "Stock"
+msgstr ""
+
+#: wpc-product-table.php:106
+msgid "Compare"
+msgstr ""
+
+#: wpc-product-table.php:107
+msgid "Quick View"
+msgstr ""
+
+#: wpc-product-table.php:108
+msgid "Wishlist"
+msgstr ""
+
+#: wpc-product-table.php:113
+msgid "No data available in table"
+msgstr ""
+
+#: wpc-product-table.php:114
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+#: wpc-product-table.php:115
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+#: wpc-product-table.php:116
+msgid "(filtered from _MAX_ total entries)"
+msgstr ""
+
+#: wpc-product-table.php:118
+msgid ","
+msgstr ""
+
+#: wpc-product-table.php:119
+msgid "Show _MENU_ entries"
+msgstr ""
+
+#: wpc-product-table.php:120
+msgid "Loading..."
+msgstr ""
+
+#: wpc-product-table.php:121
+msgid "Processing..."
+msgstr ""
+
+#: wpc-product-table.php:122
+msgid "Search:"
+msgstr ""
+
+#: wpc-product-table.php:123
+msgid "No matching records found"
+msgstr ""
+
+#: wpc-product-table.php:125
+msgid "First"
+msgstr ""
+
+#: wpc-product-table.php:126
+msgid "Last"
+msgstr ""
+
+#: wpc-product-table.php:127
+msgid "Next"
+msgstr ""
+
+#: wpc-product-table.php:128
+msgid "Previous"
+msgstr ""
+
+#: wpc-product-table.php:131
+msgid ": activate to sort column ascending"
+msgstr ""
+
+#: wpc-product-table.php:132
+msgid ": activate to sort column descending"
+msgstr ""
+
+#: wpc-product-table.php:139
+msgctxt "Post Type General Name"
+msgid "Product Tables"
+msgstr ""
+
+#: wpc-product-table.php:140
+msgctxt "Post Type Singular Name"
+msgid "Product Table"
+msgstr ""
+
+#: wpc-product-table.php:141
+msgid "Add New Product Table"
+msgstr ""
+
+#: wpc-product-table.php:142
+msgid "Add New"
+msgstr ""
+
+#: wpc-product-table.php:143
+msgid "Edit Product Table"
+msgstr ""
+
+#: wpc-product-table.php:144
+msgid "Update Product Table"
+msgstr ""
+
+#: wpc-product-table.php:145
+msgid "Search Product Table"
+msgstr ""
+
+#: wpc-product-table.php:149
+#: wpc-product-table.php:195
+msgid "Product Table"
+msgstr ""
+
+#: wpc-product-table.php:195
+#: wpc-product-table.php:206
+msgid "WPC Product Table"
+msgstr ""
+
+#: wpc-product-table.php:206
+msgid "Premium"
+msgstr ""
+
+#. translators: stars
+#: wpc-product-table.php:209
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-product-table.php:211
+msgid "Reviews"
+msgstr ""
+
+#: wpc-product-table.php:212
+msgid "Changelog"
+msgstr ""
+
+#: wpc-product-table.php:213
+msgid "Discussion"
+msgstr ""
+
+#: wpc-product-table.php:218
+msgid "Settings updated."
+msgstr ""
+
+#: wpc-product-table.php:224
+#: wpc-product-table.php:330
+msgid "How to use?"
+msgstr ""
+
+#: wpc-product-table.php:227
+#: wpc-product-table.php:331
+msgid "Settings"
+msgstr ""
+
+#: wpc-product-table.php:230
+msgid "Product Tables"
+msgstr ""
+
+#: wpc-product-table.php:233
+#: wpc-product-table.php:332
+msgid "Premium Version"
+msgstr ""
+
+#: wpc-product-table.php:236
+msgid "Essential Kit"
+msgstr ""
+
+#: wpc-product-table.php:244
+msgid "Please go to WP-admin >> Product Tables to create a table then insert the shortcode where you want to show this table."
+msgstr ""
+
+#: wpc-product-table.php:254
+msgid "Link on the product image"
+msgstr ""
+
+#: wpc-product-table.php:257
+#: wpc-product-table.php:271
+msgid "Yes, open in the same tab"
+msgstr ""
+
+#: wpc-product-table.php:258
+#: wpc-product-table.php:272
+msgid "Yes, open in the new tab"
+msgstr ""
+
+#: wpc-product-table.php:259
+#: wpc-product-table.php:273
+msgid "Yes, open quick view popup"
+msgstr ""
+
+#: wpc-product-table.php:260
+#: wpc-product-table.php:274
+msgid "No"
+msgstr ""
+
+#: wpc-product-table.php:268
+msgid "Link on the product name"
+msgstr ""
+
+#: wpc-product-table.php:348
+msgid "Community support"
+msgstr ""
+
+#: wpc-product-table.php:647
+#: wpc-product-table.php:1220
+msgid "Shortcode"
+msgstr ""
+
+#: wpc-product-table.php:651
+#: wpc-product-table.php:1144
+msgid "Configuration"
+msgstr ""
+
+#: wpc-product-table.php:659
+msgid "Place above shortcode where you want to show this product table."
+msgstr ""
+
+#: wpc-product-table.php:670
+msgid "Source"
+msgstr ""
+
+#: wpc-product-table.php:672
+msgid "Design"
+msgstr ""
+
+#: wpc-product-table.php:674
+msgid "Localization"
+msgstr ""
+
+#: wpc-product-table.php:681
+#: wpc-product-table.php:828
+msgid "Type"
+msgstr ""
+
+#: wpc-product-table.php:685
+#: wpc-product-table.php:701
+msgid "Products"
+msgstr ""
+
+#: wpc-product-table.php:686
+msgid "Categories & Tags"
+msgstr ""
+
+#: wpc-product-table.php:687
+msgid "On Sale"
+msgstr ""
+
+#: wpc-product-table.php:688
+msgid "Best Selling"
+msgstr ""
+
+#: wpc-product-table.php:707
+#: wpc-product-table.php:792
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: wpc-product-table.php:725
+msgid "Categories"
+msgstr ""
+
+#: wpc-product-table.php:731
+msgid "Search for a category&hellip;"
+msgstr ""
+
+#: wpc-product-table.php:749
+msgid "Tags"
+msgstr ""
+
+#: wpc-product-table.php:753
+msgid "Add some tags, split by a comma..."
+msgstr ""
+
+#: wpc-product-table.php:759
+msgid "Terms"
+msgstr ""
+
+#: wpc-product-table.php:786
+msgid "Exclude products"
+msgstr ""
+
+#: wpc-product-table.php:810
+msgid "Limit"
+msgstr ""
+
+#: wpc-product-table.php:820
+msgid "Order by"
+msgstr ""
+
+#: wpc-product-table.php:824
+#: wpc-product-table.php:841
+#: wpc-product-table.php:857
+msgid "Default"
+msgstr ""
+
+#: wpc-product-table.php:825
+msgid "None"
+msgstr ""
+
+#: wpc-product-table.php:826
+msgid "ID"
+msgstr ""
+
+#: wpc-product-table.php:829
+msgid "Rand"
+msgstr ""
+
+#: wpc-product-table.php:830
+#: wpc-product-table.php:1222
+msgid "Date"
+msgstr ""
+
+#: wpc-product-table.php:831
+msgid "Modified"
+msgstr ""
+
+#: wpc-product-table.php:842
+msgid "DESC"
+msgstr ""
+
+#: wpc-product-table.php:843
+msgid "ASC"
+msgstr ""
+
+#: wpc-product-table.php:853
+msgid "Style"
+msgstr ""
+
+#: wpc-product-table.php:858
+msgid "01 - Blue"
+msgstr ""
+
+#: wpc-product-table.php:859
+msgid "02 - Green"
+msgstr ""
+
+#: wpc-product-table.php:860
+msgid "03 - Orange"
+msgstr ""
+
+#: wpc-product-table.php:866
+msgid "Products per page"
+msgstr ""
+
+#: wpc-product-table.php:876
+msgid "Extra CSS classes"
+msgstr ""
+
+#: wpc-product-table.php:882
+msgid "Add extra CSS classes for the table, split by one space."
+msgstr ""
+
+#: wpc-product-table.php:887
+msgid "Columns"
+msgstr ""
+
+#: wpc-product-table.php:920
+msgid "Read more about the below strings here https://datatables.net/reference/option/language"
+msgstr ""
+
+#: wpc-product-table.php:925
+msgid "decimal"
+msgstr ""
+
+#: wpc-product-table.php:935
+msgid "emptyTable"
+msgstr ""
+
+#: wpc-product-table.php:945
+msgid "info"
+msgstr ""
+
+#: wpc-product-table.php:955
+msgid "infoEmpty"
+msgstr ""
+
+#: wpc-product-table.php:965
+msgid "infoFiltered"
+msgstr ""
+
+#: wpc-product-table.php:975
+msgid "infoPostFix"
+msgstr ""
+
+#: wpc-product-table.php:985
+msgid "thousands"
+msgstr ""
+
+#: wpc-product-table.php:995
+msgid "lengthMenu"
+msgstr ""
+
+#: wpc-product-table.php:1005
+msgid "loadingRecords"
+msgstr ""
+
+#: wpc-product-table.php:1015
+msgid "processing"
+msgstr ""
+
+#: wpc-product-table.php:1025
+msgid "search"
+msgstr ""
+
+#: wpc-product-table.php:1035
+msgid "zeroRecords"
+msgstr ""
+
+#: wpc-product-table.php:1045
+msgid "paginate:first"
+msgstr ""
+
+#: wpc-product-table.php:1055
+msgid "paginate:last"
+msgstr ""
+
+#: wpc-product-table.php:1065
+msgid "paginate:next"
+msgstr ""
+
+#: wpc-product-table.php:1075
+msgid "paginate:previous"
+msgstr ""
+
+#: wpc-product-table.php:1085
+msgid "aria:sortAscending"
+msgstr ""
+
+#: wpc-product-table.php:1095
+msgid "aria:sortDescending"
+msgstr ""
+
+#: wpc-product-table.php:1128
+msgid "Column name"
+msgstr ""
+
+#: wpc-product-table.php:1147
+msgid "Orderable: No"
+msgstr ""
+
+#: wpc-product-table.php:1148
+msgid "Orderable: Yes"
+msgstr ""
+
+#: wpc-product-table.php:1151
+msgid "Searchable: No"
+msgstr ""
+
+#: wpc-product-table.php:1152
+msgid "Searchable: Yes"
+msgstr ""
+
+#: wpc-product-table.php:1155
+msgid "Align: Left"
+msgstr ""
+
+#: wpc-product-table.php:1156
+msgid "Align: Center"
+msgstr ""
+
+#: wpc-product-table.php:1157
+msgid "Align: Right"
+msgstr ""
+
+#: wpc-product-table.php:1160
+msgid "Vertical align: Top"
+msgstr ""
+
+#: wpc-product-table.php:1161
+msgid "Vertical align: Middle"
+msgstr ""
+
+#: wpc-product-table.php:1162
+msgid "Vertical align: Bottom"
+msgstr ""
+
+#: wpc-product-table.php:1196
+msgid "Attributes"
+msgstr ""
+
+#: wpc-product-table.php:1205
+msgid "Custom (Premium)"
+msgstr ""
+
+#: wpc-product-table.php:1206
+msgid "Custom field"
+msgstr ""
+
+#: wpc-product-table.php:1207
+msgid "Custom attribute"
+msgstr ""
+
+#: wpc-product-table.php:1208
+msgid "Custom text/shortcode"
+msgstr ""
+
+#: wpc-product-table.php:1211
+msgid "+ Add new column"
+msgstr ""
+
+#: wpc-product-table.php:1219
+msgid "Title"
+msgstr ""
+
+#: wpc-product-table.php:1221
+msgid "Description"
+msgstr ""
